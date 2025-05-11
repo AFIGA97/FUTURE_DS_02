@@ -17,15 +17,6 @@ This project analyzes 376 customer support tickets to identify common issues, me
 | Tableau              | Interactive dashboard visualization           |
 | Excel                | Supplemental data validation                |
 
-📂 **Repository Structure**
-
-📂 customer-support-analysis/ ├── 📄 raw_data/ # Original dataset │ └── customer_support_tickets.csv
-├── 📄 processed_data/ # Cleaned data for Tableau │ └── cleaned_support_tickets.csv
-├── 📄 notebooks/ # Jupyter/Colab notebooks │ └── support_ticket_analysis.ipynb
-├── 📄 tableau/ # Tableau workbook & exports │ ├── support_dashboard.twbx
-│ └── dashboard_screenshots/
-└── 📄 README.md
-
 
 🔍 **Key Insights from Analysis**
 
@@ -38,10 +29,10 @@ This project analyzes 376 customer support tickets to identify common issues, me
         * Refund Requests (18%)
 
 2.  **Response Time Metrics**
-    * **Metric** | **Average Time**
-    * -------------------- | ----------------
-    * First Response Time  | 4.2 hours
-    * Resolution Time      | 8.7 hours
+    * **Metric**  **Average Time**
+      
+    * First Response Time   4.2 hours
+    * Resolution Time       8.7 hours
     * *Critical tickets take 12+ hours (needs prioritization).*
 
 3.  **Customer Satisfaction (CSAT)**
