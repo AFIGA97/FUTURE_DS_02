@@ -1,3 +1,8 @@
+![1000015674](https://github.com/user-attachments/assets/656ac064-ad30-4fb2-a1a0-73fa571de13a)
+![1000015675](https://github.com/user-attachments/assets/966a0a90-4812-4b00-bc85-c1f3bef8a5a9)
+![1000015676](https://github.com/user-attachments/assets/8229b1b0-07a6-4e06-adef-033ad3ca08c0)
+![1000015677](https://github.com/user-attachments/assets/df32f74b-a8ff-4c8a-8611-e391bb503993)
+![1000015678](https://github.com/user-attachments/assets/12c08c1b-eee7-4bbf-8185-0e078288d4d7)
 # Customer Support Ticket Analysis Project
 
 📌 **Project Overview**
